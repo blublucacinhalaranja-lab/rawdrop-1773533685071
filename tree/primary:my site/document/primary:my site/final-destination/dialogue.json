@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GOD DAMN IT!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey. like. what's wrong dude?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I CAN'T! I CAN'T BEAT THIS PIECE OF\\nSHIT!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's a bit rude...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's no point in getting angry. This guy is physically unable to lose."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'That kid' is boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Every single being\\nin this universe that has challenged him\\nwas defeated and stuff."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's because any time he looses a battle he dies."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But death does not mean end to him, every time he dies he is given the choice to reset time to a certain state."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That means that from our perspective. There is no possible outcome in which the flow of time continues after he's defeated."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the hell.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've been fighting for nothing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your power has increased drastically.\\nI wouldn't call that nothing man."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, I'll tell you what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We can't beat him but we can sure as heck give him a challenge."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You wanna sing together?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah man! With my power and your speed, he's bound to have a bad time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If that makes you feel better of course..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what? Let's do this!"
+		}
+	]
+}
